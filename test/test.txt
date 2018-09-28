@@ -1,0 +1,2 @@
+This is the text file, for testing sha256 hash algo.
+100
